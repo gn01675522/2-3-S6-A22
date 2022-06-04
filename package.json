@@ -1,0 +1,24 @@
+{
+  "name": "2-3-S6-A22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn01675522/2-3-S6-A22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gn01675522/2-3-S6-A22/issues"
+  },
+  "homepage": "https://github.com/gn01675522/2-3-S6-A22#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0"
+  }
+}
